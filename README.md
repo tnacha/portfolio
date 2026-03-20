@@ -14,7 +14,7 @@ I work at the intersection of **learning operations**, **workforce architecture*
 
 ---
 
-## 🔲 Areas of Focus
+## Areas of Focus
 
 <table>
 <tr>
@@ -49,7 +49,7 @@ Refining workflows, quality controls, and vendor oversight to reduce friction an
 
 ---
 
-## 🗂 Featured Work
+## Featured Work
 
 ### Human-In-The-Loop Training (HILT)
 > **Focus:** AI-enabled curriculum development workflows
@@ -85,7 +85,7 @@ Prototypes and workflow systems leveraging AI tools to accelerate curriculum dev
 
 ---
 
-## 💡 Approach
+## Approach
 
 > *When systems are visible, performance compounds.*
 
@@ -98,7 +98,7 @@ My work is systems-first. Strong infrastructure is deliberate, durable, and visi
 
 ---
 
-## 🛠 Tools & Methods
+## Tools & Methods
 
 | Domain | Tools & Practices |
 |---|---|
@@ -110,7 +110,7 @@ My work is systems-first. Strong infrastructure is deliberate, durable, and visi
 
 ---
 
-## 🎓 Credentials
+## Credentials
 
 - **EdD**, Instructional Technology & Distance Education — Nova Southeastern University
 - **MS**, Information Design & Communication — Southern Polytechnic State University
@@ -120,15 +120,15 @@ My work is systems-first. Strong infrastructure is deliberate, durable, and visi
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <div align="center">
 
 | | |
 |---|---|
-| 🌐 **Consulting & Advisory** | [opsided.com](https://opsided.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/tanacha](https://www.linkedin.com/in/tanacha) |
-| 🐙 **GitHub** | [github.com/tnacha](https://github.com/tnacha) |
+| **Consulting & Advisory** | [opsided.com](https://opsided.com) |
+| **LinkedIn** | [linkedin.com/in/tanacha](https://www.linkedin.com/in/tanacha) |
+| **GitHub** | [github.com/tnacha](https://github.com/tnacha) |
 
 </div>
 
