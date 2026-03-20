@@ -65,7 +65,7 @@ A modular training experience that equips learning designers to use AI effective
 
 A gamified platform guiding users through progressive levels of advocacy (Streetlight → Daylight → Sunshield). Models structured engagement, scalable user progression, and systems-level thinking applied to community behavior change.
 
-`Status: Live, [Beta](https://lightandcover.org/lightway)`
+`Status: Live, Beta` [https://lightandcover.org/lightway](https://lightandcover.org/lightway)
 
 ---
 
@@ -74,7 +74,7 @@ A gamified platform guiding users through progressive levels of advocacy (Street
 
 A card-based and digital learning experience focused on stress management and decision-making. Applies experiential learning principles to real-world behavioral outcomes in the workplace.
 
-`Status: Live, Beta`
+`Status: Live, Beta` [https://stress-quest-game.web.app](https://stress-quest-game.web.app/)
 
 ---
 
