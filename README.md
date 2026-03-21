@@ -143,13 +143,6 @@ A card-based and digital learning experience focused on stress management and de
 
 ---
 
-### AI-Integrated Learning Workflows
-> **Focus:** Operational efficiency & AI adoption
-
-Prototypes and workflow systems leveraging AI tools to accelerate curriculum development and learning operations — including responsible usage practices, prompt engineering frameworks, and AI-assisted design methodologies.
-
----
-
 ## Approach
 
 > *When systems are visible, performance compounds.*
