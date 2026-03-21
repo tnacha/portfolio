@@ -49,7 +49,72 @@ Refining workflows, quality controls, and vendor oversight to reduce friction an
 
 ---
 
-## Featured Work
+## What I'm Working On
+
+*Initiatives I'm driving in my role at General Assembly*
+
+<table>
+<tr>
+<td width="50%">
+
+**LX Model for AI-Enabled Courses**
+Designing how learning, product, and delivery integrate as AI becomes embedded in curriculum.
+
+`Active`
+
+</td>
+<td width="50%">
+
+**GAIA Platform Training Strategy**
+Building and rolling out training for an internal AI platform used by learning, sales, and solutions teams.
+
+`Active`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**GitHub Cloud Migration**
+Leading a self-hosted → cloud migration using ADKAR — guiding behavior change, access models, and new ways of working.
+
+`Active`
+
+</td>
+<td width="50%">
+
+**Contingent Workforce Architecture**
+Evolving how contractors are onboarded, upskilled, and deployed across programs.
+
+`Ongoing`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Capacity Planning System**
+Making delivery more predictable and visible — shaping how work gets forecasted and allocated.
+
+`Ongoing`
+
+</td>
+<td width="50%">
+
+**AI-Supported Design Workflows**
+Enabling learning designers to work faster while maintaining quality and governance standards.
+
+`Ongoing`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Independent Initiatives
+
+*Independent projects built outside of work — exploring ideas at the intersection of learning, AI, and product*
 
 ### Human-In-The-Loop Training (HILT)
 > **Focus:** AI-enabled curriculum development workflows
