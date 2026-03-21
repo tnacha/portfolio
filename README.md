@@ -51,7 +51,7 @@ Refining workflows, quality controls, and vendor oversight to reduce friction an
 
 ## What I'm Working On...At Work
 
-*Initiatives I'm driving in my current role*
+*Rotating view of initiatives I'm driving or contributing to in my current role*
 
 <table>
 <tr>
