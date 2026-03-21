@@ -66,7 +66,7 @@ Designing how learning, product, and delivery integrate as AI becomes embedded i
 <td width="50%">
 
 **GAIA Platform Training Strategy**
-Building and rolling out training for an internal AI platform used by learning, sales, and solutions teams.
+Planning training for an internal AI platform used by learning, sales, and solutions teams.
 
 ![Active](https://img.shields.io/badge/Active-cc2200?style=flat-square&logoColor=white)
 
@@ -76,7 +76,7 @@ Building and rolling out training for an internal AI platform used by learning, 
 <td width="50%">
 
 **GitHub Cloud Migration**
-Leading a self-hosted → cloud migration using ADKAR — guiding behavior change, access models, and new ways of working.
+Supporting change for a self-hosted → cloud migration using ADKAR — guiding behavior change, access models, and new ways of working.
 
 ![Active](https://img.shields.io/badge/Active-cc2200?style=flat-square&logoColor=white)
 
