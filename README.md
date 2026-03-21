@@ -49,9 +49,9 @@ Refining workflows, quality controls, and vendor oversight to reduce friction an
 
 ---
 
-## What I'm Working On
+## What I'm Working On...At Work
 
-*Initiatives I'm driving in my role at General Assembly*
+*Initiatives I'm driving in my current role*
 
 <table>
 <tr>
