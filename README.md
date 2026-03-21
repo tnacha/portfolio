@@ -60,7 +60,7 @@ Refining workflows, quality controls, and vendor oversight to reduce friction an
 **LX Model for AI-Enabled Courses**
 Designing how learning, product, and delivery integrate as AI becomes embedded in curriculum.
 
-`Active`
+![Active](https://img.shields.io/badge/Active-cc2200?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%">
@@ -68,7 +68,7 @@ Designing how learning, product, and delivery integrate as AI becomes embedded i
 **GAIA Platform Training Strategy**
 Building and rolling out training for an internal AI platform used by learning, sales, and solutions teams.
 
-`Active`
+![Active](https://img.shields.io/badge/Active-cc2200?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -78,7 +78,7 @@ Building and rolling out training for an internal AI platform used by learning, 
 **GitHub Cloud Migration**
 Leading a self-hosted → cloud migration using ADKAR — guiding behavior change, access models, and new ways of working.
 
-`Active`
+![Active](https://img.shields.io/badge/Active-cc2200?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%">
@@ -86,7 +86,7 @@ Leading a self-hosted → cloud migration using ADKAR — guiding behavior chang
 **Contingent Workforce Architecture**
 Evolving how contractors are onboarded, upskilled, and deployed across programs.
 
-`Ongoing`
+![Ongoing](https://img.shields.io/badge/Ongoing-444444?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ Evolving how contractors are onboarded, upskilled, and deployed across programs.
 **Capacity Planning System**
 Making delivery more predictable and visible — shaping how work gets forecasted and allocated.
 
-`Ongoing`
+![Ongoing](https://img.shields.io/badge/Ongoing-444444?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%">
@@ -104,7 +104,7 @@ Making delivery more predictable and visible — shaping how work gets forecaste
 **AI-Supported Design Workflows**
 Enabling learning designers to work faster while maintaining quality and governance standards.
 
-`Ongoing`
+![Ongoing](https://img.shields.io/badge/Ongoing-444444?style=flat-square&logoColor=white)
 
 </td>
 </tr>
