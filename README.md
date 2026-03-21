@@ -121,7 +121,7 @@ Enabling learning designers to work faster while maintaining quality and governa
 
 A modular training experience that equips learning designers to use AI effectively in content creation — maintaining instructional integrity while improving delivery velocity and consistency across distributed design teams.
 
-`Status: In Development`
+![In Development](https://img.shields.io/badge/In%20Development-000000?style=flat-square&logoColor=white)
 
 ---
 
@@ -130,7 +130,7 @@ A modular training experience that equips learning designers to use AI effective
 
 A gamified platform guiding users through progressive levels of advocacy (Streetlight → Daylight → Sunshield). Models structured engagement, scalable user progression, and systems-level thinking applied to community behavior change.
 
-`Status: Live, Beta` [https://lightandcover.org/lightway](https://lightandcover.org/lightway)
+![Live, Beta](https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white) [https://lightandcover.org/lightway](https://lightandcover.org/lightway)
 
 ---
 
@@ -139,7 +139,7 @@ A gamified platform guiding users through progressive levels of advocacy (Street
 
 A card-based and digital learning experience focused on stress management and decision-making. Applies experiential learning principles to real-world behavioral outcomes in the workplace.
 
-`Status: Live, Beta` [https://stress-quest-game.web.app](https://stress-quest-game.web.app/)
+![Live, Beta](https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white) [https://stress-quest-game.web.app](https://stress-quest-game.web.app/)
 
 ---
 
