@@ -57,7 +57,7 @@ Refining workflows, quality controls, and vendor oversight to reduce friction an
 <tr>
 <td width="50%">
 
-**LX Model for AI-Enabled Courses**
+**Learning Experience (LX) Model for AI-Enabled Courses**
 Designing how learning, product, and delivery integrate as AI becomes embedded in curriculum.
 
 ![Active](https://img.shields.io/badge/Active-cc2200?style=flat-square&logoColor=white)
