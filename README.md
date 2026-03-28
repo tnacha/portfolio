@@ -60,7 +60,7 @@ Refining workflows, quality controls, and vendor oversight to reduce friction an
 **Learning Experience (LX) Model for AI-Enabled Courses**
 Designing how learning, product, and delivery integrate as AI becomes embedded in curriculum.
 
-![Active](https://img.shields.io/badge/Active-cc2200?style=flat-square&logoColor=white)
+<kbd>Active</kbd>
 
 </td>
 <td width="50%">
@@ -68,7 +68,7 @@ Designing how learning, product, and delivery integrate as AI becomes embedded i
 **GAIA Platform Training Strategy**
 Planning training for an internal AI platform used by learning, sales, and solutions teams.
 
-![Active](https://img.shields.io/badge/Active-cc2200?style=flat-square&logoColor=white)
+<kbd>Active</kbd>
 
 </td>
 </tr>
@@ -78,7 +78,7 @@ Planning training for an internal AI platform used by learning, sales, and solut
 **GitHub Cloud Migration**
 Supporting change for a self-hosted → cloud migration using ADKAR — guiding behavior change, access models, and new ways of working.
 
-![Active](https://img.shields.io/badge/Active-cc2200?style=flat-square&logoColor=white)
+<kbd>Active</kbd>
 
 </td>
 <td width="50%">
@@ -86,7 +86,7 @@ Supporting change for a self-hosted → cloud migration using ADKAR — guiding 
 **Contingent Workforce Architecture**
 Evolving how contractors are onboarded, upskilled, and deployed across programs.
 
-![Ongoing](https://img.shields.io/badge/Ongoing-444444?style=flat-square&logoColor=white)
+<kbd>Ongoing</kbd>
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ Evolving how contractors are onboarded, upskilled, and deployed across programs.
 **Capacity Planning System**
 Making delivery more predictable and visible — shaping how work gets forecasted and allocated.
 
-![Ongoing](https://img.shields.io/badge/Ongoing-444444?style=flat-square&logoColor=white)
+<kbd>Ongoing</kbd>
 
 </td>
 <td width="50%">
@@ -104,7 +104,7 @@ Making delivery more predictable and visible — shaping how work gets forecaste
 **AI-Supported Design Workflows**
 Enabling learning designers to work faster while maintaining quality and governance standards.
 
-![Ongoing](https://img.shields.io/badge/Ongoing-444444?style=flat-square&logoColor=white)
+<kbd>Ongoing</kbd>
 
 </td>
 </tr>
@@ -121,7 +121,7 @@ Enabling learning designers to work faster while maintaining quality and governa
 
 A modular training experience that equips learning designers to use AI effectively in content creation — maintaining instructional integrity while improving delivery velocity and consistency across distributed design teams.
 
-![In Development](https://img.shields.io/badge/In%20Development-000000?style=flat-square&logoColor=white)
+<kbd>In Development</kbd>
 
 ---
 
@@ -130,7 +130,7 @@ A modular training experience that equips learning designers to use AI effective
 
 A gamified platform guiding users through progressive levels of advocacy (Streetlight → Daylight → Sunshield). Models structured engagement, scalable user progression, and systems-level thinking applied to community behavior change.
 
-![Live, Beta](https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white) [https://lightandcover.org/lightway](https://lightandcover.org/lightway)
+<kbd>Live, Beta</kbd> [https://lightandcover.org/lightway](https://lightandcover.org/lightway)
 
 ---
 
@@ -139,7 +139,7 @@ A gamified platform guiding users through progressive levels of advocacy (Street
 
 A card-based and digital learning experience focused on stress management and decision-making. Applies experiential learning principles to real-world behavioral outcomes in the workplace.
 
-![Live, Beta](https://img.shields.io/badge/Live%2C%20Beta-cc2200?style=flat-square&logoColor=white) [https://stress-quest-game.web.app](https://stress-quest-game.web.app/)
+<kbd>Live, Beta</kbd> [https://stress-quest-game.web.app](https://stress-quest-game.web.app/)
 
 ---
 
