@@ -128,7 +128,7 @@ A modular training experience that equips learning designers to use AI effective
 ### Lightway — Advocacy Engagement Platform
 > **Focus:** Behavior-based engagement system
 
-A platform for documenting and guiding self-directed advocacy. Lightway helps individuals take action across causes, track their efforts over time, and reflect on their impact through a flexible progression model (Streetlight → Daylight → Sunshield).
+A platform for documenting and guiding self-directed advocacy. Lightway helps individuals take action across causes, track their efforts over time, and reflect on their impact through a flexible progression model (Awareness (Streetlight) → Action (Daylight) → System-level Impact (Sunshield).
 
 <kbd>Live, Beta</kbd> [https://lightandcover.org/lightway](https://lightandcover.org/lightway)
 
