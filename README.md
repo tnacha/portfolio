@@ -6,42 +6,36 @@
 
 &nbsp;
 
-Strategic operations and AI enablement leader with 15+ years building the systems that make enterprise learning, workforce capability, and product delivery work at scale — not just the programs, but the **infrastructure** behind them.
+**Learning Operations · AI Enablement · Product Systems**
 
-I work at the intersection of **learning operations**, **workforce architecture**, and **AI-integrated systems** — designing operating models that are visible, governable, and built to compound over time.
+I build the infrastructure that makes enterprise learning, workforce capability, and product delivery work at scale — not just the programs, but the operating models, governance, and systems behind them. I've been the hands-on systems administrator, and I've built the governance around administrators — my work deliberately spans both altitudes.
+
+Through **[Opsided LLC](https://opsided.com)**, I consult with organizations on operating-model design, learning systems, and AI-enabled process improvement.
 
 &nbsp;
 
 ---
 
-## Areas of Focus
+## Three Pillars
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-**Learning Operations & Strategy**
-Designing scalable operating models that align product pipelines, learning development, and cross-functional execution.
-
-</td>
-<td width="50%">
-
-**Workforce & Capacity Architecture**
-Building contractor ecosystems, utilization visibility, and forecasting models that support sustainable, measurable growth.
+**Learning Operations**
+Operating models that align product pipelines, learning development, workforce capacity, and cross-functional execution — with the forecasting and utilization visibility to sustain them.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
-**AI Enablement & Governance**
-Embedding AI responsibly into learning and operational systems — strengthening capability, quality, and delivery without sacrificing governance.
+**AI Enablement**
+Embedding AI responsibly into learning and operational systems — agentic workflows, adoption strategy, and training that strengthen capability without sacrificing governance.
 
 </td>
-<td width="50%">
+<td width="33%">
 
-**Process & Systems Design**
-Refining workflows, quality controls, and vendor oversight to reduce friction and protect delivery standards at scale.
+**Product Systems**
+Designing and shipping the systems themselves — intake workflows, quality controls, delivery infrastructure, and standalone learning products.
 
 </td>
 </tr>
@@ -49,72 +43,48 @@ Refining workflows, quality controls, and vendor oversight to reduce friction an
 
 ---
 
-## What I'm Working On...At Work
+## Consulting Engagements — Opsided LLC
 
-*Rotating view of initiatives I'm driving or contributing to in my current role*
+*Selected recent engagements. Client names withheld by agreement.*
 
-<table>
-<tr>
-<td width="50%">
+### Operating Model Redesign — Boutique Law Firm
+> **Focus:** Process-first operating model diagnosis
 
-**Learning Experience (LX) Model for AI-Enabled Courses**
-Designing how learning, product, and delivery integrate as AI becomes embedded in curriculum.
+Diagnosed how work actually flowed through a small legal practice and delivered a full operating-model recommendation: single-front-door intake with a clear approval gate, a defined case pipeline and lifecycle, SOP priorities, a referral protocol with fee tracking, and success metrics staged across 30-day to 12-month horizons. Anchored in a simple discipline: **process first (what people do and decide), systems second (where the work lives)** — because buying software before the process is settled just automates today's confusion.
 
-<kbd>Active</kbd>
+### Training & Systems Integration — Enterprise CRM/Field-Service Implementation
+> **Focus:** Bridging systems implementation and learner-ready training
 
-</td>
-<td width="50%">
+Embedded mid-implementation (HubSpot + Zuper) to translate a still-stabilizing systems build into a structured training program for **14 role personas**. Redesigned planned "on-the-job" training moments into feasible pre-go-live simulations, structured procedure capture and documentation, and helped leadership make practice-versus-setup trade-offs explicit under tight go-live timelines.
 
-**GAIA Platform Training Strategy**
-Planning training for an internal AI platform used by learning, sales, and solutions teams.
+### Curriculum Storyboarding & QA — National Tech-Education Nonprofit
+> **Focus:** Learning experience design and quality assurance
 
-<kbd>Active</kbd>
+Storyboarded and QA'd curriculum in Articulate Rise: defined content flow for learning outcomes, added instructional context and interactive components, developed knowledge checks, and iterated with SMEs and stakeholders under fixed sprint deadlines.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### Commemorative Publication Design — County Women's Commission
+> **Focus:** Visual communication design
 
-**GitHub Cloud Migration**
-Supporting change for a self-hosted → cloud migration using ADKAR — guiding behavior change, access models, and new ways of working.
-
-<kbd>Active</kbd>
-
-</td>
-<td width="50%">
-
-**Contingent Workforce Architecture**
-Evolving how contractors are onboarded, upskilled, and deployed across programs.
-
-<kbd>Ongoing</kbd>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Capacity Planning System**
-Making delivery more predictable and visible — shaping how work gets forecasted and allocated.
-
-<kbd>Ongoing</kbd>
-
-</td>
-<td width="50%">
-
-**AI-Supported Design Workflows**
-Enabling learning designers to work faster while maintaining quality and governance standards.
-
-<kbd>Ongoing</kbd>
-
-</td>
-</tr>
-</table>
+Designed the cover for a 50th-anniversary commemorative book honoring five decades of a county women's commission, commissioned through a university center for the advancement of women.
 
 ---
 
-## Independent Initiatives
+## Selected Outcomes
 
-*Independent projects built outside of work — exploring ideas at the intersection of learning, AI, and product*
+*From enterprise learning-operations leadership roles.*
+
+- **42% vendor spend reduction (~$250K)** by instrumenting delivery metrics, utilization tracking, and forecasting — then acting on the trend.
+- **$650K cost avoidance** and a **35% efficiency gain** through allocation metrics and capacity planning for a distributed delivery organization.
+- **70+ enterprise courses delivered at NPS 75+** using pilot-then-scale rollout discipline.
+- **Statewide systems training rollout**: led 40+ training professionals through a train-the-trainer program reaching **4,000+ end users across 159 counties**.
+- **Contingent workforce architecture** for a ~360-contract talent pool: readiness standards, skills-to-role matching, and deployment visibility.
+- **AI adoption campaigns** for an internal AI platform used by learning, sales, and solutions teams — awareness → engagement → action, measured and iterated.
+
+---
+
+## Independent Products
+
+*Built outside of work — exploring ideas at the intersection of learning, AI, and product.*
 
 ### Human-In-The-Loop Training (HILT)
 > **Focus:** AI-enabled curriculum development workflows
@@ -123,16 +93,12 @@ A modular training experience that equips learning designers to use AI effective
 
 <kbd>In Development</kbd>
 
----
-
 ### Lightway — Advocacy Engagement Platform
 > **Focus:** Behavior-based engagement system
 
-A platform for documenting and guiding self-directed advocacy. Lightway helps individuals take action across causes, track their efforts over time, and reflect on their impact through a flexible progression model : Awareness (Streetlight) → Action (Daylight) → System-level Impact (Sunshield).
+A platform for documenting and guiding self-directed advocacy. Lightway helps individuals take action across causes, track their efforts over time, and reflect on their impact through a flexible progression model: Awareness (Streetlight) → Action (Daylight) → System-level Impact (Sunshield).
 
 <kbd>Live, Beta</kbd> [https://lightandcover.org/lightway](https://lightandcover.org/lightway)
-
----
 
 ### Stress Quest — Workplace Resilience Learning Game
 > **Focus:** Experiential learning design
@@ -143,16 +109,23 @@ A card-based and digital learning experience focused on stress management and de
 
 ---
 
+## Speaking & Community
+
+**Director of Workshops & Webinars — ATD Los Angeles**
+I organize and host professional-growth and networking events for ATD members and the wider L&D community — sourcing speakers and vendor partners, promoting events, and facilitating sessions end to end.
+
+Recent highlight: **"Agentic AI in Action"**, a two-hour hands-on workshop. I produced the event, opened with a framing talk on agentic AI for practitioners, then introduced the guest speakers who led live training and demos.
+
+---
+
 ## Approach
 
 > *When systems are visible, performance compounds.*
 
-My work is systems-first. Strong infrastructure is deliberate, durable, and visible — designed to carry weight as organizations scale.
-
-- Operating models that align product pipeline with execution capacity
-- Workforce systems that forecast, allocate, and develop talent at scale
-- AI adoption strategies grounded in governance and measurable impact
-- Learning infrastructure that reduces delivery friction across distributed teams
+- **Process first, systems second.** Define what people do and decide before choosing where the work lives.
+- **Pilot, then scale.** Prove the model with one team or business unit before rolling it wide.
+- **The thinking is shared freely; the building is the engagement.** Diagnosis and direction up front, in good faith — implementation as a defined, phased scope.
+- **AI with governance.** Adoption strategies grounded in quality standards and measurable impact, not novelty.
 
 ---
 
@@ -161,10 +134,11 @@ My work is systems-first. Strong infrastructure is deliberate, durable, and visi
 | Domain | Tools & Practices |
 |---|---|
 | **AI & Automation** | Claude, ChatGPT, Copilot, Gemini, agentic workflows, AI-first prototyping |
-| **Development** | VS Code, GitHub, React (prototyping) |
-| **Learning Systems** | LMS platforms, eLearning authoring tools, curriculum design |
-| **Operations** | Agile (PMI-ACP), capacity planning, ADKAR change management |
-| **Data & Evaluation** | Metrics design, NPS tracking, operational efficiency analysis |
+| **Learning Systems** | Canvas, D2L Brightspace, Moodle, Docebo, Blackboard; Articulate Rise; SCORM; curriculum design (ADDIE, Kirkpatrick) |
+| **Operations & Workflow** | Asana, Jira, Salesforce, HubSpot, Zuper; intake-to-allocation workflow design; capacity planning |
+| **Change Management** | Prosci/ADKAR change practice, adoption campaigns, champions networks |
+| **Data & Evaluation** | Tableau, Power BI, metrics design, NPS tracking, utilization and spend analysis |
+| **Development** | VS Code, GitHub, React (prototyping), Agile (PMI-ACP) |
 
 ---
 
