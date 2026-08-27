@@ -73,7 +73,6 @@ Designed the cover for a 50th-anniversary commemorative book honoring five decad
 
 *From enterprise learning-operations leadership roles.*
 
-- **42% vendor spend reduction (~$250K)** by instrumenting delivery metrics, utilization tracking, and forecasting — then acting on the trend.
 - **$650K cost avoidance over 14 months** from contingent workforce architecture for a talent pool spanning ~360 contracts: readiness standards, skills-to-role matching, and deployment visibility, built on async onboarding that replaced individually delivered orientation and a bench that delivered well below the standard contract rate without a quality or ramp penalty. [Read the case study →](contractor-pool-readiness-program.md)
 - **35% efficiency gain** through allocation metrics and capacity planning for a distributed delivery organization.
 - **70+ enterprise courses delivered at NPS 75+** using pilot-then-scale rollout discipline.
