@@ -115,6 +115,9 @@ I organize and host professional-growth and networking events for ATD members an
 
 Recent highlight: **["Agentic AI in Action"](https://www.atdla.org/event-6721818)**, a two-hour hands-on workshop. I produced the event, opened with a framing talk on agentic AI for practitioners, then introduced the guest speakers who led live training and demos.
 
+**Speaker — "Just Because We Can...", PMI Los Angeles Chapter (September 19, 2026)**
+An Ignite Talk — *Rethinking expertise, technology, and the future of project execution* — at "The Moment Everything Changed: The Shift from Expert to Explorer," an in-person engineering industry networking evening in Long Beach exploring what happens when AI meets the systems that run the world. [Event details →](https://pmi-la.org/calendar?eventId=719) · [LinkedIn event →](https://www.linkedin.com/events/7497736112036163585/)
+
 **Speaker — "Essential Design Tips for Non-designers", TLDC Visual Design for Learning 2024**
 A jam-packed session for the Training, Learning, and Development Community that takes non-designers beyond the context of their learning content and toward the design and display of it: core visual principles (whitespace, contrast, proximity, alignment, limiting colors and typefaces), color and accessibility (Section 508, contrast, color blindness), free photo resources to punch up materials, and layers-first tool tips for Adobe Photoshop, Illustrator, InDesign, and PowerPoint. [Watch the recording →](https://www.thetldc.com/events/2024/recordings-visual-design-for-learning-2024)
 
