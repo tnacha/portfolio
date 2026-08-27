@@ -65,6 +65,10 @@ Designing and shipping the systems themselves: intake workflows, quality control
 <td width="50%"><a href="https://stress-quest-game.web.app"><img src="assets/card-stress-quest.svg" alt="Stress Quest, workplace resilience learning game"></a></td>
 <td width="50%"><img src="assets/card-hilt.svg" alt="Human-In-The-Loop Training, in development"></td>
 </tr>
+<tr>
+<td width="50%"><a href="https://www.youtube.com/@LightCoverAdvocacy"><img src="assets/card-founder-studio.svg" alt="Founder Studio, AI-assisted advocacy video system"></a></td>
+<td width="50%"></td>
+</tr>
 </table>
 
 <details>
@@ -84,6 +88,17 @@ The Lightway app helps people take, track, and reflect on meaningful action acro
 <br>
 
 A card-based and digital learning experience focused on stress management and decision-making. Applies experiential learning principles to real-world behavioral outcomes in the workplace.
+
+</details>
+
+<details>
+<summary><strong>Founder Studio</strong>: AI-assisted advocacy video system</summary>
+
+<br>
+
+Founder Studio is a video production system I designed and configured to solve a founder problem: getting a consistent, trustworthy message out repeatedly without re-recording every time. A topic goes in, and the system generates the script and scene plan, produces narration in my own voice, selects and sequences footage from a tagged library, and composes a finished 1080p video with exported captions.
+
+Tone, color, typography, pacing, calls to action, and even preferred and avoided language are defined in a brand profile, so output stays on message by design rather than by review. The first video is published on the [Light & Cover Advocacy channel](https://www.youtube.com/@LightCoverAdvocacy). The same system is what I use to explain and inform on issues that need more than a paragraph.
 
 </details>
 
