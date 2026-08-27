@@ -93,9 +93,11 @@ A modular training experience that equips learning designers to use AI effective
 <kbd>In Development</kbd>
 
 ### Lightway — Advocacy Engagement Platform
-> **Focus:** Behavior-based engagement system
+> **Focus:** Behavior-based engagement system · Founder, Light and Cover
 
-A platform for documenting and guiding self-directed advocacy. Lightway helps individuals take action across causes, track their efforts over time, and reflect on their impact through a flexible progression model: Awareness (Streetlight) → Action (Daylight) → System-level Impact (Sunshield).
+Lightway is the flagship app of **Light and Cover**, a community-focused advocacy initiative I founded to empower individuals to be champions of a cause in whatever way they can — self-directed, flexible, and free from pressure or performance metrics. The vision: a world where everyday advocacy is visible, valued, and sustained, from individual awareness to broader systems change. *We Live Here.*
+
+The Lightway app helps people take, track, and reflect on meaningful action across the causes they care about through a flexible progression model — Awareness (Streetlight) → Action (Daylight) → System-level Impact (Sunshield) — and was designed and built leveraging AI-enabled development practices. As founder, I lead strategy, brand identity and positioning, product vision, advisory board development, and community partnerships.
 
 <kbd>Live, Beta</kbd> [https://lightandcover.org/lightway](https://lightandcover.org/lightway)
 
