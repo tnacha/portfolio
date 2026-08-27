@@ -45,7 +45,7 @@ Designing and shipping the systems themselves — intake workflows, quality cont
 
 ## Selected Outcomes
 
-*From enterprise learning-operations leadership roles.*
+*From my individual leadership roles inside enterprise learning organizations — separate from Opsided consulting engagements.*
 
 ![Selected outcomes: $650K cost avoidance, 4,000+ users trained, NPS 75+, 35% efficiency gain](assets/outcomes.svg)
 
