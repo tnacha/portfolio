@@ -72,34 +72,7 @@ Three design commitments follow from that:
 
 The program runs on four concentric tracks. A participant can be in all four at once.
 
-```
-                    ┌─────────────────────────────────────────┐
-                    │  TRACK 4 — COMMUNITY & CONTINUITY       │
-                    │  (continuous, optional, no end state)   │
-                    │  ┌───────────────────────────────────┐  │
-                    │  │ TRACK 3 — LIVE PRACTICE           │  │
-                    │  │ (recurring, optional, recorded)   │  │
-                    │  │  ┌─────────────────────────────┐  │  │
-                    │  │  │ TRACK 2 — CRAFT UPSKILLING  │  │  │
-                    │  │  │ (~130 min async, gated)     │  │  │
-                    │  │  │  ┌───────────────────────┐  │  │  │
-                    │  │  │  │ TRACK 1 — ORIENTATION │  │  │  │
-                    │  │  │  │ (~1h async, gated)    │  │  │  │
-                    │  │  │  └───────────────────────┘  │  │  │
-                    │  │  └─────────────────────────────┘  │  │
-                    │  └───────────────────────────────────┘  │
-                    └─────────────────────────────────────────┘
-                                      │
-                                      ▼
-                    ┌─────────────────────────────────────────┐
-                    │  READINESS GATE                         │
-                    │  Knowledge checks + acknowledgments     │
-                    │  + current quarterly availability       │
-                    └─────────────────────────────────────────┘
-                                      │
-                                      ▼
-                         PROJECT ACTIVATION (Day 1–4+)
-```
+![Program architecture: four concentric tracks feeding a readiness gate, then project activation](assets/program-architecture.svg)
 
 | Track | Purpose | Required? | Shape |
 |---|---|---|---|

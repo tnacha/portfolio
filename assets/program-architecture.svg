@@ -1,0 +1,33 @@
+<svg width="700" height="608" viewBox="0 0 700 608" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Program architecture: four concentric tracks (Orientation at the core, then Craft Upskilling, Live Practice, and Community and Continuity) feeding a readiness gate of knowledge checks, acknowledgments, and current quarterly availability, which leads to project activation on Days 1 to 4 and beyond">
+  <rect x="0.75" y="0.75" width="698.5" height="606.5" fill="#ffffff" stroke="#e3ded3" stroke-width="1.5" rx="10"/>
+
+  <rect x="70" y="36" width="560" height="330" fill="#ffffff" stroke="#d8d2c4" stroke-width="1.5" rx="12"/>
+  <text x="350" y="64" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#1e1c1a" letter-spacing="1.5" text-anchor="middle">TRACK 4 · COMMUNITY &amp; CONTINUITY</text>
+  <text x="350" y="82" font-family="Arial, sans-serif" font-size="11" fill="#9a948a" text-anchor="middle">continuous · optional · no end state</text>
+
+  <rect x="104" y="96" width="492" height="252" fill="#f7f3ea" stroke="#d8d2c4" stroke-width="1.5" rx="12"/>
+  <text x="350" y="124" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#1e1c1a" letter-spacing="1.5" text-anchor="middle">TRACK 3 · LIVE PRACTICE</text>
+  <text x="350" y="142" font-family="Arial, sans-serif" font-size="11" fill="#9a948a" text-anchor="middle">recurring · optional · recorded</text>
+
+  <rect x="138" y="156" width="424" height="174" fill="#efe8d8" stroke="#d8d2c4" stroke-width="1.5" rx="12"/>
+  <text x="350" y="184" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#1e1c1a" letter-spacing="1.5" text-anchor="middle">TRACK 2 · CRAFT UPSKILLING</text>
+  <text x="350" y="202" font-family="Arial, sans-serif" font-size="11" fill="#8a8478" text-anchor="middle">~130 min async · gated</text>
+
+  <rect x="172" y="216" width="356" height="96" fill="#cc2200" rx="12"/>
+  <text x="350" y="258" font-family="Arial, sans-serif" font-size="13.5" font-weight="700" fill="#ffffff" letter-spacing="1.5" text-anchor="middle">TRACK 1 · ORIENTATION</text>
+  <text x="350" y="280" font-family="Arial, sans-serif" font-size="11" fill="#ffd9d0" text-anchor="middle">~1h async · gated</text>
+
+  <line x1="350" y1="366" x2="350" y2="394" stroke="#cc2200" stroke-width="2.5"/>
+  <polygon points="343,393 357,393 350,404" fill="#cc2200"/>
+
+  <rect x="170" y="408" width="360" height="88" fill="#232120" rx="10"/>
+  <text x="350" y="438" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="1.8" text-anchor="middle">READINESS GATE</text>
+  <text x="350" y="460" font-family="Arial, sans-serif" font-size="11.5" fill="#cfcac4" text-anchor="middle">Knowledge checks + acknowledgments</text>
+  <text x="350" y="478" font-family="Arial, sans-serif" font-size="11.5" fill="#cfcac4" text-anchor="middle">+ current quarterly availability</text>
+
+  <line x1="350" y1="496" x2="350" y2="524" stroke="#cc2200" stroke-width="2.5"/>
+  <polygon points="343,523 357,523 350,534" fill="#cc2200"/>
+
+  <rect x="190" y="538" width="320" height="40" fill="none" stroke="#cc2200" stroke-width="2" rx="20"/>
+  <text x="350" y="563" font-family="Arial, sans-serif" font-size="12.5" font-weight="700" fill="#cc2200" letter-spacing="1.5" text-anchor="middle">PROJECT ACTIVATION (DAY 1–4+)</text>
+</svg>
