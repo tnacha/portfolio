@@ -43,70 +43,100 @@ Designing and shipping the systems themselves — intake workflows, quality cont
 
 ---
 
-## Consulting Engagements — Opsided LLC
-
-*Selected recent engagements. Client names withheld by agreement.*
-
-### Operating Model Redesign — Boutique Law Firm
-> **Focus:** Process-first operating model diagnosis
-
-Diagnosed how work actually flowed through a small legal practice and delivered a full operating-model recommendation: single-front-door intake with a clear approval gate, a defined case pipeline and lifecycle, SOP priorities, a referral protocol with fee tracking, and success metrics staged across 30-day to 12-month horizons. Anchored in a simple discipline: **process first (what people do and decide), systems second (where the work lives)** — because buying software before the process is settled just automates today's confusion.
-
-### Training & Systems Integration — Enterprise CRM/Field-Service Implementation
-> **Focus:** Bridging systems implementation and learner-ready training
-
-Embedded mid-implementation (HubSpot + Zuper) to translate a still-stabilizing systems build into a structured training program for **14 role personas**. Redesigned the strategy for planned "on-the-job" training moments, and recommended EdTech for eLearning execution.
-
-### Curriculum Storyboarding & QA — National Tech-Education Nonprofit
-> **Focus:** Learning experience design and quality assurance
-
-Storyboarded and QA'd curriculum in Articulate Rise: defined content flow for learning outcomes, added instructional context and interactive components, developed knowledge checks, and iterated with SMEs and stakeholders under fixed sprint deadlines.
-
-### Commemorative Publication Design — County Women's Commission
-> **Focus:** Visual communication design
-
-Designed the cover for a 50th-anniversary commemorative book honoring five decades of a county women's commission, commissioned through a university center for the advancement of women.
-
----
-
 ## Selected Outcomes
 
-*From enterprise learning-operations leadership roles.*
+*From my individual leadership roles inside enterprise learning organizations — separate from Opsided consulting engagements.*
 
-- **$650K cost avoidance over 14 months** from contingent workforce architecture for a talent pool spanning ~360 contracts: readiness standards, skills-to-role matching, and deployment visibility, built on async onboarding that replaced individually delivered orientation and a bench that delivered well below the standard contract rate without a quality or ramp penalty. [Read the case study →](contractor-pool-readiness-program.md)
-- **35% efficiency gain** through allocation metrics and capacity planning for a distributed delivery organization.
-- **70+ enterprise courses delivered at NPS 75+** using pilot-then-scale rollout discipline.
-- **Statewide systems training rollout**: led 40+ training professionals through a train-the-trainer program reaching **4,000+ end users across 159 counties**.
+![Selected outcomes: $650K cost avoidance, 4,000+ users trained, NPS 75+, 35% efficiency gain](assets/outcomes.svg)
+
+- **How the $650K was built** — contingent workforce architecture for a talent pool spanning ~360 contracts: readiness standards, skills-to-role matching, and deployment visibility, built on async onboarding that replaced individually delivered orientation and a bench that delivered well below the standard contract rate without a quality or ramp penalty. [Read the case study →](contractor-pool-readiness-program.md)
 - **AI adoption campaigns** for an internal AI platform used by learning, sales, and solutions teams — awareness → engagement → action, measured and iterated.
 
 ---
 
-## Independent Products
+## Projects & Case Study
 
-*Built outside of work — exploring ideas at the intersection of learning, AI, and product.*
+<table>
+<tr>
+<td width="50%"><a href="contractor-pool-readiness-program.md"><img src="assets/card-case-study.svg" alt="Case study: Contractor Pool Onboarding and Readiness"></a></td>
+<td width="50%"><a href="https://lightandcover.org/lightway"><img src="assets/card-lightway.svg" alt="Lightway — self-directed advocacy app by Light and Cover"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://stress-quest-game.web.app"><img src="assets/card-stress-quest.svg" alt="Stress Quest — workplace resilience learning game"></a></td>
+<td width="50%"><img src="assets/card-hilt.svg" alt="Human-In-The-Loop Training — in development"></td>
+</tr>
+</table>
 
-### Human-In-The-Loop Training (HILT)
-> **Focus:** AI-enabled curriculum development workflows
+<details>
+<summary><strong>Lightway & Light and Cover</strong> — founder</summary>
 
-A modular training experience that equips learning designers to use AI effectively in content creation — maintaining instructional integrity while improving delivery velocity and consistency across distributed design teams.
-
-<kbd>In Development</kbd>
-
-### Lightway — Advocacy Engagement Platform
-> **Focus:** Behavior-based engagement system · Founder, Light and Cover
+<br>
 
 Lightway is the flagship app of **Light and Cover**, a community-focused advocacy initiative I founded to empower individuals to be champions of a cause in whatever way they can — self-directed, flexible, and free from pressure or performance metrics. The vision: a world where everyday advocacy is visible, valued, and sustained, from individual awareness to broader systems change. *We Live Here.*
 
 The Lightway app helps people take, track, and reflect on meaningful action across the causes they care about through a flexible progression model — Awareness (Streetlight) → Action (Daylight) → System-level Impact (Sunshield) — and was designed and built leveraging AI-enabled development practices. As founder, I lead strategy, brand identity and positioning, product vision, advisory board development, and community partnerships.
 
-<kbd>Live, Beta</kbd> [https://lightandcover.org/lightway](https://lightandcover.org/lightway)
+</details>
 
-### Stress Quest — Workplace Resilience Learning Game
-> **Focus:** Experiential learning design
+<details>
+<summary><strong>Stress Quest</strong> — experiential learning design</summary>
+
+<br>
 
 A card-based and digital learning experience focused on stress management and decision-making. Applies experiential learning principles to real-world behavioral outcomes in the workplace.
 
-<kbd>Live, Beta</kbd> [https://stress-quest-game.web.app](https://stress-quest-game.web.app/)
+</details>
+
+<details>
+<summary><strong>Human-In-The-Loop Training (HILT)</strong> — AI-enabled curriculum workflows</summary>
+
+<br>
+
+A modular training experience that equips learning designers to use AI effectively in content creation — maintaining instructional integrity while improving delivery velocity and consistency across distributed design teams.
+
+</details>
+
+---
+
+## Consulting Engagements — Opsided LLC
+
+*Selected recent engagements. Client names withheld by agreement.*
+
+<details>
+<summary><strong>Operating Model Redesign — Boutique Law Firm</strong> · process-first operating model diagnosis</summary>
+
+<br>
+
+Diagnosed how work actually flowed through a small legal practice and delivered a full operating-model recommendation: single-front-door intake with a clear approval gate, a defined case pipeline and lifecycle, SOP priorities, a referral protocol with fee tracking, and success metrics staged across 30-day to 12-month horizons. Anchored in a simple discipline: **process first (what people do and decide), systems second (where the work lives)** — because buying software before the process is settled just automates today's confusion.
+
+</details>
+
+<details>
+<summary><strong>Training & Systems Integration — Enterprise CRM/Field-Service Implementation</strong> · bridging systems and learner-ready training</summary>
+
+<br>
+
+Embedded mid-implementation (HubSpot + Zuper) to translate a still-stabilizing systems build into a structured training program for **14 role personas**. Redesigned the strategy for planned "on-the-job" training moments, and recommended EdTech for eLearning execution.
+
+</details>
+
+<details>
+<summary><strong>Curriculum Storyboarding & QA — National Tech-Education Nonprofit</strong> · learning experience design and QA</summary>
+
+<br>
+
+Storyboarded and QA'd curriculum in Articulate Rise: defined content flow for learning outcomes, added instructional context and interactive components, developed knowledge checks, and iterated with SMEs and stakeholders under fixed sprint deadlines.
+
+</details>
+
+<details>
+<summary><strong>Commemorative Publication Design — County Women's Commission</strong> · visual communication design</summary>
+
+<br>
+
+Designed the cover for a 50th-anniversary commemorative book honoring five decades of a county women's commission, commissioned through a university center for the advancement of women.
+
+</details>
 
 ---
 
