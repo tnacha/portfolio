@@ -5,7 +5,7 @@
 > Case based on a program developed by **Tanacha Gaines, EdD**, in a Learning Operations and workforce development role.
 > Designed and operated inside an enterprise learning product organization.
 > Estimated **$650K+ in cost avoidance** across April 2025 – May 2026.
-> Organization, client and other personal identifiers removed, and contract rates described in relative terms only; see §0.
+> Organization, client and other personal identifiers removed, and contract rates described in relative terms only; see Section 0.
 
 **Contents**: [The problem](#1-program-at-a-glance) · [Architecture](#2-program-architecture) · [Curriculum](#4-curriculum-outline) · [How the $650K is calculated](#76-how-the-650k-is-calculated) · [The project kit](#8-the-project-kit-the-handoff-standard) · [What carried it](#10-honest-assessment-what-carried-it-what-needs-planning-for) · [Run it elsewhere](#12-build-it-yourself-checklist)
 
@@ -513,7 +513,7 @@ program's history and prevents "where did that go?" traffic.
 | **Leadership guests** | Appear at kick-starts and themed months to signal that the pool is seen |
 | **Pool members** | Peer-lead sessions, answer each other on the board, share experience |
 
-One person runs this, by design, not by accident of headcount. See §7.5.
+One person runs this, by design, not by accident of headcount. See Section 7.5.
 
 ### 7.5 Why one owner is the operating model, not a staffing gap
 
@@ -533,7 +533,7 @@ curve has already been paid, on the contractor's own time, before the engagement
 started. That is the trade the whole program exists to make: one owner's continuous
 effort in exchange for every project team's ramp-up.
 
-**The result.** Over April 2025 through May 2026 the model was credited with an estimated **$650K+ in cost savings**. §7.6 shows how that
+**The result.** Over April 2025 through May 2026 the model was credited with an estimated **$650K+ in cost savings**. Section 7.6 shows how that
 number is built.
 
 ### 7.6 How the $650K is calculated
@@ -597,66 +597,13 @@ exists to make that claim true.
 
 ## 8. The project kit: the handoff standard
 
-The program teaches a **single reusable project folder structure**, published as a
-browsable sample plus a walkthrough video, so that a designer's first day on any project
-is already familiar. This is the artifact that turns onboarding into throughput.
-
-```
-PROJECT KIT/
-├── ReadMe First                       ← how to use this folder
-├── Project Kickoff Steps              ← the ordered checklist
-├── Kicking off a project (video)
-├── Setting up the dev tracker (video)
-├── Role onboarding decks (designer, SME)
-├── Discovery, Design, Dev process guide
-│
-├── PROJECT BUILD WORK/
-│   ├── Project Tracker [Client Name · Product Name · Build Quarter]
-│   ├── Dev Tracker    [Client Name · Product Name · Build Quarter]
-│   ├── 0_Discovery/
-│   │     ├── Learner Interview template
-│   │     └── Stakeholder Interview template
-│   ├── 1_Design/
-│   │     ├── Product Specific Competency Map template  [MAKE A COPY]
-│   │     ├── Product Requirements doc template
-│   │     ├── High-Level Design deck template
-│   │     ├── Design Review question set
-│   │     └── Work-in-progress template
-│   ├── 2_Development/
-│   │     ├── Participant Guide template
-│   │     ├── Instructor Guide template
-│   │     ├── Pacing Guide template
-│   │     └── Slide Deck template
-│   └── 3_Extra Resources/
-│         ├── Development Resources/
-│         ├── Operations/
-│         └── Supplementary content templates
-│
-└── HANDOFF DELIVERABLES/
-      ├── Instructor Guide — MASTER COPY
-      ├── Final Competency Map
-      └── Content Slides
-```
-
-Three conventions carry most of the value:
-
-1. **Numbered phase folders** (`0_Discovery`, `1_Design`, `2_Development`) make the
-   process visible in the file system. A new contractor learns the method by opening a
-   folder.
-2. **Bracketed naming tokens**: `[Client Name · Product Name · Build Quarter]` make
-   every artifact self-describing and sortable across dozens of concurrent builds.
-3. **A separate Handoff Deliverables folder** draws a hard line between working files and
-   the master copies the client or delivery team receives.
-
-### The five-phase delivery process the kit supports
-
-| Phase | Weeks | Joint activity | Artifact produced |
-|---|---|---|---|
-| **Discovery** | 1–3 | Pre-survey; deep-dive interviews with stakeholders | Kick-off slides |
-| **Design** | 4–5 | High-level design call: how outcomes will be achieved | High-level curriculum outline |
-| **Develop** | 6–8 | Detailed design call: concepts, case studies, activities, discussions | Detailed workshop deck; program build |
-| **Deliver** | 8 | Program delivery by expert practitioners at the client's chosen location | Program materials |
-| **Debrief** | +1–2 | Feedback survey; debrief call and next-step recommendations | Debrief deck |
+The program teaches a **single reusable project kit**: a standard project folder,
+published as a browsable sample plus a walkthrough video, so that a designer's first
+day on any project is already familiar. The kit pairs that folder with a set, phased
+design process every project follows from discovery through handoff, with templates
+and trackers for each phase and a clear separation between working files and the
+final deliverables a client or delivery team receives. This is the artifact that
+turns onboarding into throughput.
 
 ---
 
@@ -724,9 +671,9 @@ Four standing quality pillars, repeated in comms:
 - **Single ownership.** Concentrating the pool in one role kept the cost of maintaining
   unassigned talent off the rest of the learning management function, and let activated
   members join established teams with the learning curve already behind them. This is
-  the program's central efficiency, not a staffing compromise (see §7.5). It is also what
+  the program's central efficiency, not a staffing compromise (see Section 7.5). It is also what
   made pool rates defensible, the source of an estimated **$650K+** saved between April
-  2025 and May 2026 (see §7.6).
+  2025 and May 2026 (see Section 7.6).
 
 **What needs planning for**
 
@@ -751,7 +698,7 @@ Four standing quality pillars, repeated in comms:
 
 | Question | Measure |
 |---|---|
-| **Is the program paying for itself?** | **Onboarding hours avoided + the rate differential applied to delivered hours. This program's own estimate: $650K+ over 14 months (see §7.6).** |
+| **Is the program paying for itself?** | **Onboarding hours avoided + the rate differential applied to delivered hours. This program's own estimate: $650K+ over 14 months (see Section 7.6).** |
 | Is the bench ready? | % of pool with both knowledge checks complete |
 | Is the bench available? | % with a current-quarter availability record; distribution across capacity bands |
 | Is the bench warm? | Office-hours attendance; board posts; recording views; Blast open/click |
@@ -791,14 +738,8 @@ To stand this program up in another organization:
 - [ ] Start the newsletter before you have news; use the fixed seven-part structure
 - [ ] Put a recurring open office hour on the calendar and keep it even when nobody comes
 - [ ] Record everything; file recordings in a dedicated, always-growing topic
-- [ ] Publish a sample project kit with numbered phase folders and bracketed naming
-      tokens, plus a walkthrough video
+- [ ] Publish a sample project kit with a standard folder structure and a set design
+      process, plus a walkthrough video
 - [ ] Publish estimates for the craft work: steps with hour ranges, and the assumptions
       underneath them
 - [ ] Concentrate ownership in one role, then write the runbook and name a successor
-
----
-
-*Reconstructed from a live program's course shell, announcement archive, module library,
-assessment instruments, and project kit. All organizational and personal identifiers
-removed.*
