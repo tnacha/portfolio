@@ -55,7 +55,7 @@ Diagnosed how work actually flowed through a small legal practice and delivered 
 ### Training & Systems Integration — Enterprise CRM/Field-Service Implementation
 > **Focus:** Bridging systems implementation and learner-ready training
 
-Embedded mid-implementation (HubSpot + Zuper) to translate a still-stabilizing systems build into a structured training program for **14 role personas**. Redesigned strategy for planned "on-the-job" training moments, Recommened EdTech for eLearning execution.
+Embedded mid-implementation (HubSpot + Zuper) to translate a still-stabilizing systems build into a structured training program for **14 role personas**. Redesigned the strategy for planned "on-the-job" training moments, and recommended EdTech for eLearning execution.
 
 ### Curriculum Storyboarding & QA — National Tech-Education Nonprofit
 > **Focus:** Learning experience design and quality assurance
