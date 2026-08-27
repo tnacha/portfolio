@@ -7,7 +7,7 @@
 > Estimated **$650K+ in cost avoidance** across April 2025 – May 2026.
 > Organization, client and other personal identifiers removed, and contract rates described in relative terms only; see §0.
 
-**Contents** — [The problem](#1-program-at-a-glance) · [Architecture](#2-program-architecture) · [Curriculum](#4-curriculum-outline) · [How the $650K is calculated](#76-how-the-650k-is-calculated) · [The project kit](#8-the-project-kit--the-handoff-standard) · [What carried it](#10-honest-assessment-what-carried-it-what-needs-planning-for) · [Run it elsewhere](#12-build-it-yourself-checklist)
+**Contents**: [The problem](#1-program-at-a-glance) · [Architecture](#2-program-architecture) · [Curriculum](#4-curriculum-outline) · [How the $650K is calculated](#76-how-the-650k-is-calculated) · [The project kit](#8-the-project-kit-the-handoff-standard) · [What carried it](#10-honest-assessment-what-carried-it-what-needs-planning-for) · [Run it elsewhere](#12-build-it-yourself-checklist)
 
 ---
 
@@ -16,8 +16,8 @@
 This is a de-identified reconstruction of a live onboarding program designed and
 operated for the learning product organization of a global skills-training company.
 Company name, individual names, internal product names, client names, and internal
-links have been removed. Contract rates are described in relative terms only — the
-underlying rate card is the organization's compensation data and is not reproduced —
+links have been removed. Contract rates are described in relative terms only: the
+underlying rate card is the organization's compensation data and is not reproduced,
 and lever weights are stated qualitatively for the same reason. Commonly available tools are named where they are load-bearing
 to the design (Google Classroom, Google Workspace, GitHub, Figma, Slack, Asana, Canvas).
 
@@ -33,7 +33,7 @@ learning work through a contingent talent pool.
 |---|---|
 | **Program name** | Contractor Pool Onboarding & Readiness |
 | **Audience** | Contract learning experience designers and subject matter experts |
-| **Population state** | Vetted but **unassigned** — on standby, not yet contracted |
+| **Population state** | Vetted but **unassigned**: on standby, not yet contracted |
 | **Duration** | ~3–4 hours of required async work; community track runs continuously |
 | **Modality** | Async self-paced modules + live optional sessions + persistent community space |
 | **Platform** | A single course shell (Google Classroom) fronting a document/asset ecosystem |
@@ -50,8 +50,8 @@ forgotten the house method, or never learned it in the first place. Ramp-up then
 consumes the first two weeks of a billable engagement.
 
 This program treats the **waiting period as the onboarding period**. Everything that
-would normally happen after a contract is signed — orientation, method training, tooling
-access, ways-of-working, quality standards — happens before, on the contractor's own
+would normally happen after a contract is signed (orientation, method training, tooling
+access, ways-of-working, quality standards) happens before, on the contractor's own
 time, voluntarily and unpaid, in exchange for visibility and first position on staffing.
 
 Three design commitments follow from that:
@@ -62,8 +62,8 @@ Three design commitments follow from that:
 2. **Readiness has to be legible.** Staffing decisions need a signal. Completion of
    knowledge checks plus a current availability record *is* that signal, and it is
    stated out loud: no availability on file, no consideration.
-3. **The cold period has to have a heartbeat.** Without a recurring rhythm — a
-   newsletter, office hours, themed months — a standby pool is indistinguishable from
+3. **The cold period has to have a heartbeat.** Without a recurring rhythm (a
+   newsletter, office hours, themed months), a standby pool is indistinguishable from
    a dead mailing list.
 
 ---
@@ -112,27 +112,27 @@ The program runs on four concentric tracks. A participant can be in all four at 
 
 ## 3. Participant journey
 
-**Stage 0 — Invitation.** Vetted candidate is added to the course shell. The welcome
+**Stage 0: Invitation.** Vetted candidate is added to the course shell. The welcome
 post sets the terms explicitly and unambiguously: *you are on standby; you are not
 contracted or employed; participation is voluntary and unpaid; engage on your own time.*
-This honesty is a design feature, not a disclaimer — it prevents the resentment that
+This honesty is a design feature, not a disclaimer: it prevents the resentment that
 kills unpaid pools.
 
-**Stage 1 — Orient.** Read the orientation deck end to end. Watch the workspace
+**Stage 1: Orient.** Read the orientation deck end to end. Watch the workspace
 orientation video (how the organization's shared docs and trackers are actually used).
 Complete the acknowledgment.
 
-**Stage 2 — Upskill.** Work the five craft modules. Complete the two-part knowledge
+**Stage 2: Upskill.** Work the five craft modules. Complete the two-part knowledge
 check and alignment acknowledgment.
 
-**Stage 3 — Signal.** Submit the quarterly availability form: capacity band (5 / 10 / 20 /
+**Stage 3: Signal.** Submit the quarterly availability form: capacity band (5 / 10 / 20 /
 30+ hours per week), date range, and industry experience tags.
 
-**Stage 4 — Stay warm.** Attend office hours, watch session recordings, post in the
-community board, request a 1:1. Optional, but visible — and visibility is explicitly
+**Stage 4: Stay warm.** Attend office hours, watch session recordings, post in the
+community board, request a 1:1. Optional, but visible, and visibility is explicitly
 described as a staffing input.
 
-**Stage 5 — Activate.** Matched to a project. A four-day ramp begins:
+**Stage 5: Activate.** Matched to a project. A four-day ramp begins:
 
 | Day | Activity |
 |---|---|
@@ -142,47 +142,47 @@ described as a staffing input.
 | Day 4+ | Submit deliverables in the required templates; participate in check-ins |
 
 Tooling access (email, calendar, drive, content folders, source control, chat, project
-management, wiki) is provisioned **at contract**, not at pool entry — a deliberate
+management, wiki) is provisioned **at contract**, not at pool entry, a deliberate
 security and licence-cost boundary that the program states up front so no one is
 surprised by an empty inbox.
 
-**Stage 6 — Close and feed back.** End-of-project survey feeds the next revision of the
+**Stage 6: Close and feed back.** End-of-project survey feeds the next revision of the
 program.
 
 ---
 
 ## 4. Curriculum outline
 
-### Track 1 — Orientation
+### Track 1: Orientation
 
-**Module 1.1 — Orientation Deck** *(self-paced, ~45–60 min, ~37 slides)*
+**Module 1.1: Orientation Deck** *(self-paced, ~45–60 min, ~37 slides)*
 
 Five sections:
 
-1. **Pre-boarding** — welcome, what access you will receive and when, the Day 1–4+
+1. **Pre-boarding**: welcome, what access you will receive and when, the Day 1–4+
    look-ahead, and your project team's key roles (commercial product manager, project
    manager, design manager, client success manager, instructor manager, SMEs).
-2. **About the organization** — market position, product lines (bootcamps, short
+2. **About the organization**: market position, product lines (bootcamps, short
    courses, workshops), differentiated approach to learning, applicability principles.
-3. **Curriculum development process** — the five-phase collaborative design process,
+3. **Curriculum development process**: the five-phase collaborative design process,
    "what good looks like" exemplars, and the definition of done.
-4. **Modularization** — why content is chunked, the benefits, and how modularization
+4. **Modularization**: why content is chunked, the benefits, and how modularization
    works operationally.
-5. **Expectations, ways of working, communicating** — deliverables, meetings,
+5. **Expectations, ways of working, communicating**: deliverables, meetings,
    accountability table, code of conduct, AI/LLM use policy.
 
-**Module 1.2 — Workspace Orientation Video** *(assignment)*
+**Module 1.2: Workspace Orientation Video** *(assignment)*
 How the shared documents, trackers, and sheets are actually used day to day, plus
 expected ways of working.
 
-**Gate 1.3 — Onboarding Acknowledgment** *(form)*
+**Gate 1.3: Onboarding Acknowledgment** *(form)*
 Confirms the participant has read and accepts the orientation content.
 
 ---
 
-### Track 2 — Craft Upskilling *(~130 min core + technical add-on)*
+### Track 2: Craft Upskilling *(~130 min core + technical add-on)*
 
-**Module 2.1 — Learning Design Concepts** *(35 min)*
+**Module 2.1: Learning Design Concepts** *(35 min)*
 *Objective: Recognize learning experience and instructional design best practices.*
 
 | Sub-lesson | Time |
@@ -197,7 +197,7 @@ oriented to human-centred design and real workforce problems); what a learning
 experience designer actually does; the two delivery models (consumer/shelf courses vs.
 custom/client builds) and where SMEs and instructors sit in each.
 
-Then, learning objectives in depth — a note on Bloom's taxonomy calibrated for busy
+Then, learning objectives in depth, a note on Bloom's taxonomy calibrated for busy
 professional adult learners (avoid all-lower-level lessons; the exception is async intro
 content), non-measurable verbs to avoid, and the five qualities of a good objective:
 
@@ -213,7 +213,7 @@ buys the program; owned by product management; require learner action and often
 organizational change) from **learning objectives** (owned and drafted by the learning
 team with SMEs; the organization's actual commitment to the learner).
 
-Finally, scaffolding and problem-based learning: three overarching design principles —
+Finally, scaffolding and problem-based learning: three overarching design principles:
 
 1. **Start with why.** Adult learners are busy and want to know immediately how this
    applies to them.
@@ -227,7 +227,7 @@ problem** structure: Scenario · Requirements · Issues · Practice.
 
 ---
 
-**Module 2.2 — The Modular System** *(15 min)*
+**Module 2.2: The Modular System** *(15 min)*
 *Objective: Identify the components of the modularization system.*
 
 The three building blocks and how they nest:
@@ -243,7 +243,7 @@ Modules mix and match at the module level to compose new products for a client;
 
 ---
 
-**Module 2.3 — Building Modular Content** *(65 min)*
+**Module 2.3: Building Modular Content** *(65 min)*
 *Objective: Demonstrate understanding of how to build content in a modular structure.*
 
 | Sub-lesson | Time |
@@ -252,7 +252,7 @@ Modules mix and match at the module level to compose new products for a client;
 | Use cases | 10 min |
 | Design system | 50 min |
 
-**The nine-step modularization process,** with published time estimates — the single most
+**The nine-step modularization process,** with published time estimates: the single most
 portable artifact in the program, because it converts a vague craft activity into a
 scoped, estimable unit of work:
 
@@ -277,7 +277,7 @@ scoped, estimable unit of work:
 | Updating an existing product | All steps; heavy investment in step 3 to target only what needs updating |
 | Modularizing legacy content | Skip steps 2 and 6; restructure and restyle against the design system |
 
-**The learning experience design system** — a living component library (maintained in
+**The learning experience design system**: a living component library (maintained in
 Figma) that produces stylistically unified products against the brand style guide.
 Six sections, each with annotated notes on template use and styling conventions:
 documentation · non-coding lessons · coding lessons · video lessons · assessment ·
@@ -293,7 +293,7 @@ labs, and projects.
 
 ---
 
-**Module 2.4 — Streamlined Development** *(15 min)*
+**Module 2.4: Streamlined Development** *(15 min)*
 *Objective: Identify components of the streamlined development process related to the
 modular system.*
 
@@ -314,7 +314,7 @@ when Discovery and Planning have produced a locked scope and protected focus tim
 Modularization considerations start at research and discovery and continue through
 development.
 
-The module publishes **development calculators** — total weeks for ramp-up, design,
+The module publishes **development calculators**: total weeks for ramp-up, design,
 development and delivery by product length (a one-day workshop ≈ 5.45 weeks end to end;
 two-day ≈ 6.1; three-day ≈ 7; five-day ≈ 7.4), broken into runway after the go decision,
 dedicated dev time, meeting/operational allocation, and delivery prep. It also publishes
@@ -322,7 +322,7 @@ the three assumptions those numbers depend on (no reusable modular content exist
 SME can turn work around quickly and iteratively; this is the designer's only project),
 which is what makes the estimates arguable rather than magical.
 
-**Quality assurance of learning content** — four reasons the organization QAs:
+**Quality assurance of learning content**: four reasons the organization QAs:
 care for learners and customers; rapid development means errors get through; someone
 unfamiliar with the work should be able to step into the learner's shoes and follow it
 without friction; and reviewing others' design makes you a better designer.
@@ -330,44 +330,44 @@ without friction; and reviewing others' design makes you a better designer.
 The working standard: in an ideal world every piece of content is QA'd; given real
 resourcing, the expectation is **1–2 hours of your content QA'd per week during your dev
 cycle**, at roughly **30 minutes of QA per hour of content**. Content should be close to
-finished — QA is a final check, not a co-writing session. A shared rubric is copied into
+finished, QA is a final check, not a co-writing session. A shared rubric is copied into
 the developer's own folder, filled out for the lessons under review, and returned to the
 designer for iteration.
 
 ---
 
-**Module 2.5 — Source Control for Designers** *(technical tracks; work in progress)*
+**Module 2.5: Source Control for Designers** *(technical tracks; work in progress)*
 *Objective: Safely navigate and update a repository.*
 Review a README explaining how source control is used and organized, then complete an
 activity demonstrating safe navigation and update of a repository.
 
 ---
 
-**Gate 2.6 — Upskilling Knowledge Check & Survey**
+**Gate 2.6: Upskilling Knowledge Check & Survey**
 A single form with two parts per section: (1) a knowledge check, and (2) an
 acknowledgment of alignment with what was shared. The acknowledgment half matters as
-much as the quiz half — it converts "I watched it" into "I agree to work this way."
+much as the quiz half: it converts "I watched it" into "I agree to work this way."
 
 ---
 
-### Track 3 — Live Practice *(optional, always recorded)*
+### Track 3: Live Practice *(optional, always recorded)*
 
 A rolling library, added to continuously. Observed formats:
 
-- **Annual kick-start session** — celebrate the prior year, spotlight standouts,
+- **Annual kick-start session**: celebrate the prior year, spotlight standouts,
   network, and share the year-ahead pool outlook and expected opportunity types.
-- **Themed month series** — e.g. a four-part quality series (kick-off and baseline →
+- **Themed month series**: e.g. a four-part quality series (kick-off and baseline →
   quality as shared value and mindset → QA for technical courses → peer-led QA for
   non-technical courses), followed by a hands-on lab month (live QA labs, tooling and
   efficiency sessions, collaborative build sessions for custom AI assistants, rollout
   of a new learning experience model).
-- **Project kickoff walkthrough** — a video tour of a real project folder plus a
+- **Project kickoff walkthrough**: a video tour of a real project folder plus a
   browsable sample folder, so the first day on a project is recognizable.
-- **Tool demonstrations** — internal AI curriculum tooling walkthroughs recorded by
+- **Tool demonstrations**: internal AI curriculum tooling walkthroughs recorded by
   peers who use them, plus external AI tool recommendations from managers.
-- **Practitioner showcases** — instructors demonstrating AI integrated into their own
+- **Practitioner showcases**: instructors demonstrating AI integrated into their own
   courseware.
-- **Learning philosophy workshops** — "what is good learning?" alignment workshops and
+- **Learning philosophy workshops**: "what is good learning?" alignment workshops and
   sessions on articulating and sharing your learning philosophy externally as thought
   leadership.
 
@@ -376,7 +376,7 @@ but valuable behind-the-scenes context on how the team makes decisions.
 
 ---
 
-### Track 4 — Community & Continuity *(continuous)*
+### Track 4: Community & Continuity *(continuous)*
 
 | Ritual | Cadence | Purpose |
 |---|---|---|
@@ -393,13 +393,13 @@ but valuable behind-the-scenes context on how the team makes decisions.
 1. Named congratulations for everyone newly staffed
 2. A recap of what happened (with links to recordings)
 3. Invitation to what's next, explicitly labelled no-obligation and recorded
-4. One or two **action items** — usually availability, occasionally a discovery survey
+4. One or two **action items**: usually availability, occasionally a discovery survey
 5. A craft tip tied to the current theme
 6. Office hours reminder with dates and dual time zones
 7. A community prompt back to the discussion board
 
 Two mechanics do the heavy lifting: **naming people who got staffed** (making the path
-visible and rivalrous in a healthy way) and **stating the staffing rule plainly** — no
+visible and rivalrous in a healthy way) and **stating the staffing rule plainly**: no
 current availability on file means the match skips you.
 
 ---
@@ -411,7 +411,7 @@ current availability on file means the match skips you.
 | Orientation acknowledgment | Form | Read and accepted expectations, conduct, and ways of working |
 | Workspace orientation | Video assignment | Knows where work lives and how it is tracked |
 | Upskilling knowledge check | Two-part form per section | Understands the method **and** agrees to work that way |
-| Availability record | Quarterly form | Capacity, dates, industry fit — the actual staffing input |
+| Availability record | Quarterly form | Capacity, dates, industry fit, the actual staffing input |
 | Engagement signal | Attendance, board posts, responsiveness | Soft signal, explicitly disclosed as a factor |
 
 **Stated performance expectations while staffed** (published before anyone is contracted,
@@ -419,7 +419,7 @@ which is why they hold):
 
 - Own your project from day one; bring solutions
 - Stay responsive on the agreed channels
-- Keep the tracker current — a development tracker or an individual tracker, aligned
+- Keep the tracker current, a development tracker or an individual tracker, aligned
   with your project lead
 - Deliver on time in the requested format/template; flag unforeseen delays with more
   than 48 hours' notice
@@ -430,7 +430,7 @@ which is why they hold):
 
 The escalation ladder is published too: two failed attempts to resolve a working problem,
 or more than two cancellations for lack of preparation, may end the contract. Stating the
-ladder in onboarding — rather than discovering it during a dispute — is the design move.
+ladder in onboarding, rather than discovering it during a dispute, is the design move.
 
 ---
 
@@ -438,7 +438,7 @@ ladder in onboarding — rather than discovering it during a dispute — is the 
 
 For a learning designer contractor, "done" is four conditions, not a feeling:
 
-1. Lessons created or revised — content complete with SME and peer designer review;
+1. Lessons created or revised: content complete with SME and peer designer review;
    homework and assignments developed or updated; assets identified or requested
 2. Objectives updated and aligned across the competency map and skills
 3. Feedback from reviews and QA resolved
@@ -471,7 +471,7 @@ system accounts.
 | Scheduling poll | Cross-timezone session scheduling |
 
 **The single most copyable structural decision:** every module's description carries its
-**objective and its runtime** in the title and body — `MODULE NAME [35 MIN]` followed by
+**objective and its runtime** in the title and body: `MODULE NAME [35 MIN]` followed by
 `OBJECTIVE: …` and a timed sub-lesson list. An unpaid volunteer audience will not start a
 module of unknown length. Publishing the cost of attention up front is what makes an
 async track finishable.
@@ -499,7 +499,7 @@ program's history and prevents "where did that go?" traffic.
 | Weeks 1–12 | Blast weekly or biweekly; office hours biweekly; recordings posted within days |
 | Themed month | A four-session series on one discipline, culminating in a takeaways summary |
 | Following month | Hands-on labs applying the previous month's theme |
-| Year start | Kick-start session — prior-year recap, spotlights, pipeline outlook |
+| Year start | Kick-start session, prior-year recap, spotlights, pipeline outlook |
 | Holidays | Published closure dates and a shifted, weekend-friendly final office hours |
 | Continuous | 1:1s on request; staffing announcements as they land |
 
@@ -513,7 +513,7 @@ program's history and prevents "where did that go?" traffic.
 | **Leadership guests** | Appear at kick-starts and themed months to signal that the pool is seen |
 | **Pool members** | Peer-lead sessions, answer each other on the board, share experience |
 
-One person runs this — by design, not by accident of headcount. See §7.5.
+One person runs this, by design, not by accident of headcount. See §7.5.
 
 ### 7.5 Why one owner is the operating model, not a staffing gap
 
@@ -529,7 +529,7 @@ instead of neglect. One person absorbing the pool is what buys everyone else the
 
 **The return.** When a pool member is activated, they join an established team already
 fluent in the method, the templates, the trackers and the ways of working. The learning
-curve has already been paid — on the contractor's own time, before the engagement
+curve has already been paid, on the contractor's own time, before the engagement
 started. That is the trade the whole program exists to make: one owner's continuous
 effort in exchange for every project team's ramp-up.
 
@@ -539,19 +539,19 @@ number is built.
 ### 7.6 How the $650K is calculated
 
 Two levers, both tracked in a shared development sheet. Rates are described here in
-relative terms only — the underlying rate card is the organization's compensation data,
+relative terms only: the underlying rate card is the organization's compensation data,
 not the program's, and is not reproduced.
 
-**Lever 1 — onboarding cost avoided.**
+**Lever 1: onboarding cost avoided.**
 Four hours of individually delivered orientation per person, replaced by self-serve async
 modules, valued at the blended contract rate and multiplied across the ~50 contractors who
 came through the program in the period. Counted once per person, whether or not they were
 ever staffed.
 
-**Lever 2 — rate differential on delivered work.**
+**Lever 2: rate differential on delivered work.**
 The pool delivered at roughly a third below the organization's standard contract rate for
-the role. That differential, applied to every delivered hour — logged per person per
-assignment in the tracker — accounts for almost all of the total.
+the role. That differential, applied to every delivered hour (logged per person per
+assignment in the tracker), accounts for almost all of the total.
 
 | Lever | Basis | Weight |
 |---|---|---|
@@ -560,7 +560,7 @@ assignment in the tracker — accounts for almost all of the total.
 | **Total** | April 2025 – May 2026 | **~$650,000** |
 
 **On the baseline.** The comparison rate is the organization's own standard contract rate
-for the role — an internal published rate, not a negotiated peak or a favourably chosen
+for the role, an internal published rate, not a negotiated peak or a favourably chosen
 sample. Subject matter expert engagements carried a higher standard rate than designer
 engagements, but the differential was calculated at the designer rate throughout, so any
 SME work inside the total is counted at the lower differential. The estimate is
@@ -572,16 +572,16 @@ several assignments over time, so the wider contingent workforce was tracked in 
 hundreds of *contracts* against a much smaller headcount.
 
 **What the split actually says.** The program's value is not that it saved four hours of
-orientation per person — that lever is a rounding error against the total. It is that it
+orientation per person: that lever is a rounding error against the total. It is that it
 let the organization
 buy delivery well below its standard rate without paying for the discount in quality or
 ramp. Onboarding is the *enabling condition* for the rate, not a line item beside it.
 
-Stated that way, the figure survives the obvious challenge — *you would have saved that
-anyway by contracting at a lower rate* — because an unprepared low-rate bench gives the
+Stated that way, the figure survives the obvious challenge: *you would have saved that
+anyway by contracting at a lower rate*, because an unprepared low-rate bench gives the
 difference back in ramp-up, rework and QA. What the program bought was the right to pay
-pool rates without paying pool quality. Every other mechanism in this document — the gated
-modules, the knowledge checks, the project kit, the definition of done, the QA standard —
+pool rates without paying pool quality. Every other mechanism in this document (the gated
+modules, the knowledge checks, the project kit, the definition of done, the QA standard)
 exists to make that claim true.
 
 ### 7.7 Communication rules of engagement
@@ -595,7 +595,7 @@ exists to make that claim true.
 
 ---
 
-## 8. The project kit — the handoff standard
+## 8. The project kit: the handoff standard
 
 The program teaches a **single reusable project folder structure**, published as a
 browsable sample plus a walkthrough video, so that a designer's first day on any project
@@ -643,7 +643,7 @@ Three conventions carry most of the value:
 1. **Numbered phase folders** (`0_Discovery`, `1_Design`, `2_Development`) make the
    process visible in the file system. A new contractor learns the method by opening a
    folder.
-2. **Bracketed naming tokens** — `[Client Name · Product Name · Build Quarter]` — make
+2. **Bracketed naming tokens**: `[Client Name · Product Name · Build Quarter]` make
    every artifact self-describing and sortable across dozens of concurrent builds.
 3. **A separate Handoff Deliverables folder** draws a hard line between working files and
    the master copies the client or delivery team receives.
@@ -669,7 +669,7 @@ misrepresenting it afterward) and named as grounds for removal from a project.
 
 ### AI and LLM use policy
 
-A published six-area policy — notable for being permissive and specific rather than
+A published six-area policy, notable for being permissive and specific rather than
 prohibitive, and for being disclosed to clients as a normal tool like a template:
 
 | Area | Guideline |
@@ -685,25 +685,25 @@ The operating stance: AI for speed, **human in the loop** for inclusivity, relat
 and quality. In practice the pool was told to expect to review and accept AI-drafted
 objectives, lesson outlines, content, and competency maps rather than to consume them.
 
-### Quality standard — the "unfamiliar peer" test
+### Quality standard: the "unfamiliar peer" test
 
 > Someone unfamiliar with our work should be able to put themselves in the learner's
 > shoes and follow the content without friction.
 
 Checked against a course quality rubric covering: measurable objectives following
 Bloom's taxonomy; instructor notes following a Purpose / Talking Points / Teaching Tips
-template; authentic real-world scenarios; and precision in the nuts and bolts —
+template; authentic real-world scenarios; and precision in the nuts and bolts:
 working links, consistent spelling conventions, correct branding.
 
 Four standing quality pillars, repeated in comms:
 
-1. **Standardization** — always use the established phase process and the current
+1. **Standardization**: always use the established phase process and the current
    approved templates
-2. **Persona validation** — verify learner personas rather than accepting stakeholder
+2. **Persona validation**: verify learner personas rather than accepting stakeholder
    assertion; account for regional and cultural nuance to prevent cognitive interruption
-3. **Strategic alignment** — verify content maps to business outcomes and tangible
+3. **Strategic alignment**: verify content maps to business outcomes and tangible
    takeaways; avoid over-engineering
-4. **Scaffolded handoff** — emphasize "I do, we do, you do" so delivery teams can pick
+4. **Scaffolded handoff**: emphasize "I do, we do, you do" so delivery teams can pick
    the material up
 
 ---
@@ -712,7 +712,7 @@ Four standing quality pillars, repeated in comms:
 
 **What worked**
 
-- Publishing runtimes and objectives on every async module — the single highest-leverage
+- Publishing runtimes and objectives on every async module, the single highest-leverage
   detail for a volunteer audience
 - Naming staffed members in every newsletter; the path became visible and credible
 - Making the availability form the explicit staffing gate, and repeating that rule
@@ -725,7 +725,7 @@ Four standing quality pillars, repeated in comms:
   unassigned talent off the rest of the learning management function, and let activated
   members join established teams with the learning curve already behind them. This is
   the program's central efficiency, not a staffing compromise (see §7.5). It is also what
-  made pool rates defensible — the source of an estimated **$650K+** saved between April
+  made pool rates defensible, the source of an estimated **$650K+** saved between April
   2025 and May 2026 (see §7.6).
 
 **What needs planning for**
@@ -733,7 +733,7 @@ Four standing quality pillars, repeated in comms:
 - **Succession, not staffing.** The efficiency depends on concentration; the continuity
   depends on documentation. Cadence, matching judgment and coaching relationships live in
   one head, so a role change puts the heartbeat at risk overnight. The fix is a runbook
-  and a named successor — never a second owner, which would spend the very overhead the
+  and a named successor, never a second owner, which would spend the very overhead the
   model was built to contain.
 - **Voluntary + unpaid + indefinite.** Sustainable only while the staffing pipeline is
   real and visible. The moment placements slow, the value exchange breaks.
@@ -742,7 +742,7 @@ Four standing quality pillars, repeated in comms:
   "work in progress."
 - **Async completion is invisible without instrumentation.** Knowledge-check completion
   was the only hard signal; there was no view of partial progress.
-- **Live attendance was thin** even with recordings — expected for an unpaid audience,
+- **Live attendance was thin** even with recordings, expected for an unpaid audience,
   but it means the recorded library, not the live session, is the real deliverable.
 
 ---
@@ -761,14 +761,14 @@ Four standing quality pillars, repeated in comms:
 | Is the experience good? | End-of-project survey; repeat-engagement rate |
 
 The savings figure is the one number that makes this program legible to a budget holder.
-Anyone reproducing the model should fix its derivation up front — the blended onboarding
+Anyone reproducing the model should fix its derivation up front (the blended onboarding
 rate, the hours of orientation replaced, the standard rate the differential is measured
-against — and hold that method constant so the number stays comparable quarter to quarter.
+against) and hold that method constant so the number stays comparable quarter to quarter.
 Log delivered hours per person from day one: the rate differential is worthless without
 them, and it is where nearly all of the value sits.
 
 One caution if you publish the calculation. Rates, delivered hours and the lever weights
-form a chain — the total, multiplied by a lever's share, divided by that lever's unit
+form a chain: the total, multiplied by a lever's share, divided by that lever's unit
 count, returns an hourly rate. Publishing any three of them exposes the fourth. If the
 rate card is confidential, state the lever weights qualitatively and keep the volumes out.
 
@@ -779,7 +779,7 @@ rate card is confidential, state the lever weights qualitatively and keep the vo
 To stand this program up in another organization:
 
 - [ ] Decide and publish the terms of standby (unpaid, voluntary, not contracted) in the
-      first post — plainly
+      first post, plainly
 - [ ] Choose a free, external-friendly course shell; do not wait for LMS accounts
 - [ ] Write one orientation deck covering: access timeline, day 1–4 look-ahead, team
       roles, the delivery process, definition of done, ways of working, conduct, AI policy
@@ -793,9 +793,9 @@ To stand this program up in another organization:
 - [ ] Record everything; file recordings in a dedicated, always-growing topic
 - [ ] Publish a sample project kit with numbered phase folders and bracketed naming
       tokens, plus a walkthrough video
-- [ ] Publish estimates for the craft work — steps with hour ranges, and the assumptions
+- [ ] Publish estimates for the craft work: steps with hour ranges, and the assumptions
       underneath them
-- [ ] Concentrate ownership in one role — then write the runbook and name a successor
+- [ ] Concentrate ownership in one role, then write the runbook and name a successor
 
 ---
 
