@@ -115,6 +115,9 @@ I organize and host professional-growth and networking events for ATD members an
 
 Recent highlight: **"Agentic AI in Action"**, a two-hour hands-on workshop. I produced the event, opened with a framing talk on agentic AI for practitioners, then introduced the guest speakers who led live training and demos.
 
+**Contributor — Workshop Design Guide, L&D Shakers**
+A community-built guide that walks newer designers through the eight elements of workshop design that deserve the most critical thinking — stakeholders, purpose, participants, outcomes, metrics, experience, activities, and notes to the facilitator. I'm one of the named practitioner contributors. [View the guide →](https://app.notion.com/p/Workshop-Design-Guide-19dbb17f9f7d8053b5cddf3fd6c62202)
+
 ---
 
 ## Approach
