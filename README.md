@@ -113,7 +113,10 @@ A card-based and digital learning experience focused on stress management and de
 **Director of Workshops & Webinars — ATD Los Angeles**
 I organize and host professional-growth and networking events for ATD members and the wider L&D community — sourcing speakers and vendor partners, promoting events, and facilitating sessions end to end.
 
-Recent highlight: **"Agentic AI in Action"**, a two-hour hands-on workshop. I produced the event, opened with a framing talk on agentic AI for practitioners, then introduced the guest speakers who led live training and demos.
+Recent highlight: **["Agentic AI in Action"](https://www.atdla.org/event-6721818)**, a two-hour hands-on workshop. I produced the event, opened with a framing talk on agentic AI for practitioners, then introduced the guest speakers who led live training and demos.
+
+**Speaker — "Essential Design Tips for Non-designers", TLDC Visual Design for Learning 2024**
+A jam-packed session for the Training, Learning, and Development Community that takes non-designers beyond the context of their learning content and toward the design and display of it: core visual principles (whitespace, contrast, proximity, alignment, limiting colors and typefaces), color and accessibility (Section 508, contrast, color blindness), free photo resources to punch up materials, and layers-first tool tips for Adobe Photoshop, Illustrator, InDesign, and PowerPoint. [Watch the recording →](https://www.thetldc.com/events/2024/recordings-visual-design-for-learning-2024)
 
 **Contributor — Workshop Design Guide, L&D Shakers**
 A community-built guide that walks newer designers through the eight elements of workshop design that deserve the most critical thinking — stakeholders, purpose, participants, outcomes, metrics, experience, activities, and notes to the facilitator. I'm one of the named practitioner contributors. [View the guide →](https://app.notion.com/p/Workshop-Design-Guide-19dbb17f9f7d8053b5cddf3fd6c62202)

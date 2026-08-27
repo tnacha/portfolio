@@ -2,9 +2,10 @@
 
 **A repeatable model for onboarding, upskilling, and activating a standby bench of learning designers and subject matter experts.**
 
+> Case based on a program developed by **Tanacha Gaines, EdD**, in a Learning Operations and workforce development role.
 > Designed and operated inside an enterprise learning product organization.
 > Estimated **$650K+ in cost avoidance** across April 2025 – May 2026.
-> Organization, client and personal identifiers removed, and contract rates described in relative terms only; see §0.
+> Organization, client and other personal identifiers removed, and contract rates described in relative terms only; see §0.
 
 **Contents** — [The problem](#1-program-at-a-glance) · [Architecture](#2-program-architecture) · [Curriculum](#4-curriculum-outline) · [How the $650K is calculated](#76-how-the-650k-is-calculated) · [The project kit](#8-the-project-kit--the-handoff-standard) · [What carried it](#10-honest-assessment-what-carried-it-what-needs-planning-for) · [Run it elsewhere](#12-build-it-yourself-checklist)
 
