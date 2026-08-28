@@ -6,11 +6,11 @@
 
 &nbsp;
 
-**Learning Operations · AI Enablement · Product Systems**
+**Adoption & Change · Learning Operations & Workforce Capability · Product & Delivery Systems**
 
-I build the infrastructure that makes enterprise learning, workforce capability, and product delivery work at scale, not just the programs, but the operating models, governance, and systems behind them. I've been the hands-on systems administrator, and I've built the governance around administrators: my work deliberately spans both altitudes.
+I build the infrastructure behind adoption and transformation at scale, the operating models, governance, and systems that make enterprise learning, workforce capability, and product delivery actually work. I've been the hands-on systems administrator and I've built the governance around administrators: my work deliberately spans both altitudes.
 
-Through **[Opsided LLC](https://opsided.com)**, I consult with organizations on operating-model design, learning systems, and AI-enabled process improvement.
+Through **[Opsided LLC](https://opsided.com)**, I consult with organizations on operating-model design, learning design and systems, change and adoption, and AI-enabled process improvement.
 
 &nbsp;
 
@@ -22,24 +22,26 @@ Through **[Opsided LLC](https://opsided.com)**, I consult with organizations on 
 <tr>
 <td width="33%">
 
-**Learning Operations**
+**Adoption & Change**
+Change strategy, stakeholder engagement, and adoption tracking that turn new systems and new ways of working into everyday use.
+
+</td>
+<td width="33%">
+
+**Learning Operations & Workforce Capability**
 Operating models that align product pipelines, learning development, workforce capacity, and cross-functional execution, with the forecasting and utilization visibility to sustain them.
 
 </td>
 <td width="33%">
 
-**AI Enablement**
-Embedding AI responsibly into learning and operational systems: agentic workflows, adoption strategy, and training that strengthen capability without sacrificing governance.
-
-</td>
-<td width="33%">
-
-**Product Systems**
+**Product & Delivery Systems**
 Designing and shipping the systems themselves: intake workflows, quality controls, delivery infrastructure, and standalone learning products.
 
 </td>
 </tr>
 </table>
+
+*AI-enabled throughout: embedding AI responsibly into these systems with agentic workflows and training that strengthen capability without sacrificing governance.*
 
 ---
 
